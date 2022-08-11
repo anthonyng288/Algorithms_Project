@@ -19,6 +19,6 @@ I do hope I can come back to this and make it full stack:
 * Use the binary tree to cache data to be added 
 
 Contributers include: 
-Anthony Nguyen
-Dulce Acevedo 
-Rodo Nguyen
+* Anthony Nguyen
+* Dulce Acevedo 
+* Rodo Nguyen
